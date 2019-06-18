@@ -6,14 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="NYPost" />
         <module name="Amazon" />
-        <module name="Facebook" />
-        <module name="Cnn" />
+        <module name="Facebook1" />
+        <module name="CNN" />
         <module name="Generic" />
-        <module name="Cigna" />
         <module name="Generic2" />
-        <module name="Citibank" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Cigna" target="1.5" />
+      <module name="Citibank" target="1.5" />
+      <module name="Citibank1" target="1.5" />
+      <module name="Cnn" target="1.5" />
+      <module name="Facebook" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

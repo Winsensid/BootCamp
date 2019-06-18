@@ -2,390 +2,137 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dad363f2-57c2-4201-9f9c-a08bad74b485" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BasicSeleniumTraining/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BasicSeleniumTraining/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic2/Generic2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChaseWeb/Generic/src/main/resources/Drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChaseWeb/Generic/src/main/resources/Drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/src/main/resources/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/src/main/resources/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Google/src/main/resources/drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MidtermApril2019/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ADAL_iPad_Storyboard.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ADAL_iPad_Storyboard.storyboardc/LogonNavigator.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ADAL_iPad_Storyboard.storyboardc/leH-LM-mXg-view-nBc-go-Asd.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ADAL_iPhone_Storyboard.storyboardc/GcB-iz-KCM-view-UxT-im-uCY.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ADAL_iPhone_Storyboard.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ADAL_iPhone_Storyboard.storyboardc/LogonNavigator.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/About Contents.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AddToPlaylistView.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AddToPlaylistView.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev20x20@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev20x20@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev20x20@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev20x20~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev29x29@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev29x29@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev29x29@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev29x29~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev40x40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev40x40@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev40x40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev40x40~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev60x60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev60x60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev76x76@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev76x76~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AppIconDev83.5x83.5@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Assets.car" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AudioMiniPlayer.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/AudioMiniPlayer.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Base.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Base.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftAVFoundation.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftCore.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftCoreAudio.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftCoreData.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftCoreFoundation.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftCoreGraphics.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftCoreImage.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftCoreMedia.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftDarwin.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftDispatch.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftFoundation.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftMediaPlayer.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftMetal.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftObjectiveC.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftQuartzCore.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftSwiftOnoneSupport.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftUIKit.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftos.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Frameworks/libswiftsimd.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/_CodeSignature/CodeDirectory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/_CodeSignature/CodeRequirements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/_CodeSignature/CodeRequirements-1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/_CodeSignature/CodeResources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/_CodeSignature/CodeSignature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/de.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/en.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/es.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/fa.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/fr.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/hr.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/hu.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/it.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/ja.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/nb.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/nl.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/pt-PT.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/pt.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/ru.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/tr.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/HockeySDKResources.bundle/zh-Hans.lproj/HockeySDK.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Launch Screen.storyboardc/4Ht-sK-31E-view-fUV-Cm-0Ob.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Launch Screen.storyboardc/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Launch Screen.storyboardc/UIViewController-4Ht-sK-31E.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MappingModel_2_5_to_2_6.cdm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MediaCollectionViewCell.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MediaCollectionViewCell.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MediaEditCell.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MediaEditCell.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MediaLibrary.momd/MediaLibrary-2.1.mom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MediaLibrary.momd/MediaLibrary-2.5.mom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MediaLibrary.momd/MediaLibrary-2.6.mom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MediaLibrary.momd/MediaLibrary-2.7.mom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MediaLibrary.momd/MediaLibrary-2.7.omo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MediaLibrary.momd/VersionInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MovieCollectionViewCell.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/MovieCollectionViewCell.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/PkgInfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/PlaybackSpeedView.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/PlaybackSpeedView.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/PlayingExternallyView.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/PlayingExternallyView.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Raleway.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/Root.inApp.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/Root.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/af.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/ar.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/be.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/br.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/bs.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/ca.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/co.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/cs.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/da.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/de.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/el.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/en-GB.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/en.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/es-MX.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/es.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/fa.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/fi.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/fo.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/fr.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/gl.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/he.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/hu.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/id.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/is.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/it.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/ja.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/kab.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/km.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/ko.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/lo.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/lv.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/mr.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/ms.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/nb.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/nl.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/nn.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/pl.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/pt-BR.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/pt-PT.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/ro.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/ru.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/sc.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/si.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/sk.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/sl.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/sr.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/sv.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/ta.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/th.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/tr.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/uk.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/zh-Hans.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/Settings.bundle/zh-Hant.lproj/Root.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLC for iOS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCCloudServiceCell.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCCloudServicesTableViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCCloudStorageTableViewCell~ipad.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCCloudStorageTableViewCell~iphone.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCCloudStorageTableViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCCone512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCDownloadViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCEmptyLibraryView.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCEmptyLibraryView.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCFirstStepsCloudViewController.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCFirstStepsCloudViewController.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCFirstStepsWifiSharingViewController.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCFirstStepsWifiSharingViewController.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCFirstStepsiTunesSyncViewController.nib/objects-11.0+.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCFirstStepsiTunesSyncViewController.nib/runtime.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCLabelCell.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCMigrationViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCMovieViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCNetworkListCell.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCNetworkLoginViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCOpenNetworkStreamViewController.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/VLCTimeNavigationTitleView.nib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/XKKeychain.bundle/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/XKKeychain.bundle/_CodeSignature/CodeDirectory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/XKKeychain.bundle/_CodeSignature/CodeRequirements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/XKKeychain.bundle/_CodeSignature/CodeRequirements-1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/XKKeychain.bundle/_CodeSignature/CodeResources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/XKKeychain.bundle/_CodeSignature/CodeSignature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/_CodeSignature/CodeResources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/af.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/af.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ar.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ar.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/be.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/be.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/br.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/br.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/bs.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/bs.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ca.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ca.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/co.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/co.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/cs.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/cs.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/da.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/da.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/de.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/de.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/de.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/el.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/el.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/el.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/en-GB.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/en-GB.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/en.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/en.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/en.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/es-MX.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/es-MX.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/es.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/es.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/es.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/fa.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/fa.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/fi.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/fi.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/fo.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/fo.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/fr.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/fr.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/fr.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/gl.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/gl.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/gradient-cell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/he.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/he.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/hu.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/hu.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/id.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/id.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/is.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/is.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/it.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/it.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/it.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ja.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ja.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ja.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/jquery-1.10.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/jquery.fileupload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/jquery.iframe-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/jquery.ui.widget.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/km.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/km.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ko.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ko.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/libMediaVLC.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/libswiftRemoteMirror.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/lv.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/lv.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/mr.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/mr.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ms.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ms.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/nb.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/nb.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/nl.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/nl.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/nl.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/papasscode_background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/papasscode_background@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/papasscode_failed_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/papasscode_failed_bg@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/papasscode_marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/papasscode_marker@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/pl.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/pl.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/pt-BR.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/pt-BR.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/pt-PT.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/pt-PT.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/pt-PT.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/pt.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ro.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ro.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ru.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ru.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ru.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/sc.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/sc.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/si.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/si.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/sk.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/sk.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/sl.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/sl.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/sv.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/sv.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/sv.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ta.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/ta.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/th.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/th.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/th.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/tr.lproj/IASKLocalizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/tr.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/tr.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/uk.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/uk.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/web-download-fixed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/web-download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/web-open-fixed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/web-open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/zh-Hans.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/zh-Hans.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/zh-Hant.lproj/InfoPlist.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PhoneAutomation/Generic/src/main/resources/VLC for iOS.app/zh-Hant.lproj/Localizable.strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training/Generic/src/main/java/databases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training/Generic/src/main/resources/drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training/Generic/src/main/resources/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training/Generic/src/main/resources/secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training/Generic/src/main/resources/sql-driver/mysql-connector-java-6.0.6-bin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facebook1/Facebook1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NYPost/NYPost.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampAutomation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampAutomation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampAutomation/Amazon/Amazon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampAutomation/CNN/CNN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampAutomation/Cigna/Cigna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampAutomation/CitiBank/CitiBank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampAutomation/Facebook/Facebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootCampAutomation/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/src/main/java/facebookBrowse/Ebay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrameworkAutomation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrameworkAutomation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framwork/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framwork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/Cigna.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/CNN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/src/test/resources/CignaRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/Cigna-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cigna/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Citibank/Citibank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Citibank/Citibank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Citibank/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Citibank/src/test/resources/CitibankRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Citibank/target/Citibank-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Citibank/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Citibank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Citibank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/Cnn.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/src/test/resources/CnnRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/Cnn-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cnn/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/Facebook.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/Facebook-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/classes/driver/chromedriver1" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/driver/chromedriver1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic2/Generic2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorkProject/HomeWorkJava" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorkProject/HomeWorkJava" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MidtermApril2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermApril2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MidtermApril2019/src/datastructure/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermApril2019/src/datastructure/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySQL_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySQL_Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OopHomeWork/OopHomeWork" beforeDir="false" afterPath="$PROJECT_DIR$/../OopHomeWork/OopHomeWork" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PyramidProject" beforeDir="false" afterPath="$PROJECT_DIR$/../PyramidProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/Review.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/Review.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/out/production/Review/DataStructure/StackClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/out/production/Review/DataStructure/StackClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/out/production/Review/bufferPackage/BufferReadWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/out/production/Review/bufferPackage/BufferReadWrite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/out/production/Review/bufferPackage/ReadText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/out/production/Review/bufferPackage/ReadText.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/out/production/Review/dataTypesnonprimitiveString/StringConcatenation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/out/production/Review/dataTypesnonprimitiveString/StringConcatenation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/out/production/Review/dataTypesnonprimitiveString/StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/out/production/Review/dataTypesnonprimitiveString/StringManipulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/src/DataStructure/StackClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/DataStructure/StackClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/src/bufferPackage/BufferReadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/bufferPackage/BufferReadWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/src/bufferPackage/ReadText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/bufferPackage/ReadText.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringConcatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Review/src/dataTypesnonprimitiveString/StringManipulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.projects/WeekDaysJava/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.projects/WeekDaysJava/.markers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.projects/WeekDaysJava/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.projects/WeekDaysJava/org.eclipse.jdt.core/state.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.projects/getterandsetterclass/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.projects/getterandsetterclass/org.eclipse.jdt.core/state.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.root/13.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.jdt.core/4157037142.index" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.jdt.core/4157037142.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WeekDaysFebruary/WeekDaysJava" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFebruary/WeekDaysJava" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jeff" beforeDir="false" afterPath="$PROJECT_DIR$/../jeff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabCore/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LabCore/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LabCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/13/30631f409e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/17/80c0c8f79e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/2/b06f30a7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/28/d02e33a7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/29/f0d9ac42a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/2a/60ebad42a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/2c/70d32fa7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/38/40d8e850c65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/49/c0e9d1a5b05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/49/d0231666c65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/4c/c0751e00e75b00191a0a882c5e2b84fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/5b/80892da7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/5c/30ac276bae5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/5c/80817758a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/5e/6025e140c65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/60/907e0e63c55b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/60/a0b7ffbfa15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/60/b0aeae42a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/6d/90846e99a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/6d/d04c2ea7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/6e/f0545c28c75b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/72/c0c220409e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/7b/503f5d28c75b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/7b/90db5d28c75b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/7c/40b1d0a5b05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/7d/5017f47c9f5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/81/90d6f87fc55b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/81/b00ce314a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/88/70c854e4c45b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/8b/208f7674a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/99/4091dfdaaf5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/9a/b0ee7774a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/9b/f02e5c2c9e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/9c/9066e2d79e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/a4/b05f4107d45b00191cdf91f0ade8e79b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/a5/b074960ba25b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/a9/f0816935c65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/ad/30456d29c65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/b0/909232a7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/b3/f06f8ab3c55b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/b9/408579eca15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/bc/d05db864a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/bd/f00b31a7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/be/804dd1a5b05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/c/40f9857dae5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/c3/60947c73c55b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/c5/40d17e64e25b00191cdf91f0ade8e79b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/c6/70daee229e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/ca/503823fbad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/da/80797774a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/e/40cf31a7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/e3/60f2c7b7a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/e7/a0de417d9e5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/eb/00b6735e9f5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/f7/30ffd3e2a05b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/f8/109df123a15b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/fc/a064daf9ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/fd/b0dcc36fc65b001914d7ef2e19df8199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/fe/30372fa7ad5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.history/fe/a07516edae5b001916b9e8786557102e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.projects/CoreJava/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.projects/CoreJava/.indexes/e4/90/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.projects/CoreJava/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.projects/OOP_HomeWork/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.projects/OOP_HomeWork/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.root/4.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../WeekDaysFeb/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WinsenPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WinsenPractice/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -396,6 +143,8 @@
     <ignored path="$PROJECT_DIR$/Cigna/target/" />
     <ignored path="$PROJECT_DIR$/Citibank/target/" />
     <ignored path="$PROJECT_DIR$/Generic2/target/" />
+    <ignored path="$PROJECT_DIR$/Facebook1/target/" />
+    <ignored path="$PROJECT_DIR$/NYPost/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -407,14 +156,110 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Generic2/src/main/java/basePackage/MobileAPI4.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state relative-caret-position="316">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYPost/src/test/resources/NYPostRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook1/src/main/java/facebookPackage/LogIn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Citibank/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Citibank/src/test/resources/CitibankRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Citibank/src/main/java/CitiHome/Citi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Citibank/src/test/java/CitiHomeTest/CitiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#653#654#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Citibank/src/test/java/CitiHomeTest/BeforeMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/cnnPackage/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook1/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -424,7 +269,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -435,18 +282,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/Cigna/pom.xml" />
-        <option value="$PROJECT_DIR$/Citibank/pom.xml" />
         <option value="$PROJECT_DIR$/Cnn/pom.xml" />
         <option value="$PROJECT_DIR$/Facebook/pom.xml" />
         <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
         <option value="$PROJECT_DIR$/Cigna/src/test/resources/CignaRunner.xml" />
-        <option value="$PROJECT_DIR$/Citibank/src/test/resources/CitibankRunner.xml" />
         <option value="$PROJECT_DIR$/Cnn/src/test/resources/CnnRunner.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/amazonPackage/Account.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/AccountTest.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/amazonPackage/BrowseProduct.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/BrowseProductTest.java" />
@@ -458,8 +301,32 @@
         <option value="$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/AutosuggestionTest.java" />
         <option value="$PROJECT_DIR$/Generic2/src/main/java/baseMobile/MobileAPI3.java" />
         <option value="$PROJECT_DIR$/Generic2/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic2/src/main/java/basePackage/MobileAPI4.java" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/Facebook1/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/AccountTest.java" />
+        <option value="$PROJECT_DIR$/Facebook1/src/test/java/facebookPackageTest/login.java" />
+        <option value="$PROJECT_DIR$/Facebook1/src/test/resources/FacebookRunner.xml" />
+        <option value="$PROJECT_DIR$/Facebook1/src/test/java/facebookPackageTest/LogInTest.java" />
+        <option value="$PROJECT_DIR$/Facebook1/src/main/java/facebookPackage/LogIn.java" />
+        <option value="$PROJECT_DIR$/CNN/pom.xml" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/cnnPackageTest/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/cnnPackageTest/VerifyPageTest.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/cnnPackage/VerifyPage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/cnnPackage/HomePage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/resources/CnnRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI.java" />
+        <option value="$PROJECT_DIR$/NYPost/src/main/java/mobilePackage/MobileClass.java" />
+        <option value="$PROJECT_DIR$/NYPost/src/test/java/mobilePackageTest/MobileClassTest.java" />
+        <option value="$PROJECT_DIR$/NYPost/src/test/resources/NYPostRunner.xml" />
+        <option value="$PROJECT_DIR$/NYPost/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Citibank/src/main/java/CitiHome/Citi.java" />
+        <option value="$PROJECT_DIR$/Citibank/src/test/java/resources/CitiTest.java" />
+        <option value="$PROJECT_DIR$/Citibank/pom.xml" />
+        <option value="$PROJECT_DIR$/Citibank/src/test/resources/CitibankRunner.xml" />
+        <option value="$PROJECT_DIR$/Citibank/src/test/java/CitiHomeTest/CitiTest.java" />
+        <option value="$PROJECT_DIR$/Citibank/src/test/java/CitiHomeTest/BeforeMethod.java" />
       </list>
     </option>
   </component>
@@ -512,43 +379,93 @@
         <subPane>
           <expand>
             <path>
-              <item name="BootCampAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BootCampAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic2" type="462c0819:PsiDirectoryNode" />
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Citibank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BootCampAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic2" type="462c0819:PsiDirectoryNode" />
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Citibank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BootCampAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic2" type="462c0819:PsiDirectoryNode" />
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Citibank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BootCampAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic2" type="462c0819:PsiDirectoryNode" />
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Citibank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Citibank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CitiHome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Citibank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Citibank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BootCampAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BootCampAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic2" type="462c0819:PsiDirectoryNode" />
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="basePackage" type="462c0819:PsiDirectoryNode" />
+              <item name="cnnPackage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -558,6 +475,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/java/reporting" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -566,16 +487,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Citibank/src/test/java" />
+      <recent name="$PROJECT_DIR$/Citibank/src/test" />
+      <recent name="$PROJECT_DIR$/Citibank1/src/test" />
+      <recent name="$PROJECT_DIR$/Cigna/src/test/java" />
+      <recent name="$PROJECT_DIR$/NYPost/src/test" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="CitiHomeTest" />
+      <recent name="facebookPackageTest" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Generic/src/main/java/reporting" />
       <recent name="$PROJECT_DIR$/Generic/src/main/resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Generic/src/main/resources/driver" />
-      <recent name="$PROJECT_DIR$/Facebook/src/test" />
-      <recent name="$PROJECT_DIR$/Cnn/src/test" />
-      <recent name="$PROJECT_DIR$/Citibank/src/test" />
-      <recent name="$PROJECT_DIR$/Cigna/src/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -590,7 +515,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG./Users/winsensid/Documents/BootCamp/NYPost/src/test/resources/NYPostRunner.xml">
+    <configuration name="LogInTest.setLogin3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="facebookPackageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="facebookPackageTest" />
+      <option name="MAIN_CLASS_NAME" value="facebookPackageTest.LogInTest" />
+      <option name="METHOD_NAME" value="setLogin3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="/Users/djafarouldslimane/Documents/BootCampAutomation/Amazon/src/test/resources/AmazonRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
@@ -601,8 +544,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/winsensid/Documents/BootCamp/CNN/src/test/resources/CnnRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CNN" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CNN/src/test/resources/CnnRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/winsensid/Documents/BootCamp/Facebook1/src/test/resources/FacebookRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Facebook1/src/test/resources/FacebookRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/winsensid/Documents/BootCamp/NYPost/src/test/resources/NYPostRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NYPost" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/NYPost/src/test/resources/NYPostRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/winsensid/Documents/BootCamp/NYPost/src/test/resources/NYPostRunner.xml" />
+        <item itemvalue="TestNG./Users/winsensid/Documents/BootCamp/CNN/src/test/resources/CnnRunner.xml" />
+        <item itemvalue="TestNG./Users/winsensid/Documents/BootCamp/Facebook1/src/test/resources/FacebookRunner.xml" />
+        <item itemvalue="TestNG.LogInTest.setLogin3" />
         <item itemvalue="TestNG./Users/djafarouldslimane/Documents/BootCampAutomation/Amazon/src/test/resources/AmazonRunner.xml" />
       </list>
     </recent_temporary>
@@ -621,24 +598,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_djafarouldslimane_Documents_BootCampAutomation_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 14h 31m 10s.xml">
-      <configuration name="/Users/djafarouldslimane/Documents/BootCampAutomation/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_djafarouldslimane_Documents_BootCampAutomation_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 14h 32m 03s.xml">
-      <configuration name="/Users/djafarouldslimane/Documents/BootCampAutomation/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_djafarouldslimane_Documents_BootCampAutomation_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 14h 32m 18s.xml">
-      <configuration name="/Users/djafarouldslimane/Documents/BootCampAutomation/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_djafarouldslimane_Documents_BootCampAutomation_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 14h 32m 38s.xml">
-      <configuration name="/Users/djafarouldslimane/Documents/BootCampAutomation/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_djafarouldslimane_Documents_BootCampAutomation_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 14h 32m 53s.xml">
-      <configuration name="/Users/djafarouldslimane/Documents/BootCampAutomation/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_djafarouldslimane_Documents_BootCampAutomation_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 14h 33m 11s.xml">
-      <configuration name="/Users/djafarouldslimane/Documents/BootCampAutomation/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_djafarouldslimane_Documents_BootCampAutomation_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 14h 33m 27s.xml">
       <configuration name="/Users/djafarouldslimane/Documents/BootCampAutomation/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -651,12 +610,30 @@
     <history-entry file="_Users_djafarouldslimane_Documents_BootCampAutomation_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 14h 44m 00s.xml">
       <configuration name="/Users/djafarouldslimane/Documents/BootCampAutomation/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_winsensid_Documents_BootCamp_Facebook1_src_test_resources_FacebookRunner_xml - 2019.06.18 at 16h 15m 30s.xml">
+      <configuration name="/Users/winsensid/Documents/BootCamp/Facebook1/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_winsensid_Documents_BootCamp_Facebook1_src_test_resources_FacebookRunner_xml - 2019.06.18 at 16h 22m 24s.xml">
+      <configuration name="/Users/winsensid/Documents/BootCamp/Facebook1/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_winsensid_Documents_BootCamp_Facebook1_src_test_resources_FacebookRunner_xml - 2019.06.18 at 16h 39m 16s.xml">
+      <configuration name="/Users/winsensid/Documents/BootCamp/Facebook1/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_winsensid_Documents_BootCamp_CNN_src_test_resources_CnnRunner_xml - 2019.06.18 at 17h 03m 23s.xml">
+      <configuration name="/Users/winsensid/Documents/BootCamp/CNN/src/test/resources/CnnRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_winsensid_Documents_BootCamp_NYPost_src_test_resources_NYPostRunner_xml - 2019.06.18 at 18h 06m 01s.xml">
+      <configuration name="/Users/winsensid/Documents/BootCamp/NYPost/src/test/resources/NYPostRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_winsensid_Documents_BootCamp_NYPost_src_test_resources_NYPostRunner_xml - 2019.06.18 at 18h 07m 09s.xml">
+      <configuration name="/Users/winsensid/Documents/BootCamp/NYPost/src/test/resources/NYPostRunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23101777" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23424879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -673,7 +650,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.329653" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.329653" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.329653" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -699,34 +676,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Citibank/src/test/resources/CitibankRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -736,13 +686,6 @@
             <element signature="e#1083#1084#0" expanded="true" />
             <element signature="e#1130#1131#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/resources/CnnRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -760,84 +703,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Citibank/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/AccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/amazonPackage/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4125">
-          <caret line="277" column="22" selection-start-line="277" selection-start-column="22" selection-end-line="277" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic2/src/main/java/baseMobile.java" />
     <entry file="file://$PROJECT_DIR$/Generic2/src/main/java/baseMobile/MobileAPI3.java" />
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/AutosuggestionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/VerifyItemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/amazonPackage/BrowseProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -847,13 +714,6 @@
             <element signature="e#1178#1179#0" expanded="true" />
             <element signature="e#1209#1210#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -877,18 +737,6 @@
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/amazonPackage/Autosuggestion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/amazonPackage/VerifyItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
@@ -901,20 +749,346 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic2/src/main/java/basePackage/MobileAPI4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
+        <state relative-caret-position="17">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/AutosuggestionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/VerifyItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook1/src/test/java/facebookPackageTest/login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazonPackageTest/AccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook1/src/test/java/facebookPackageTest/LogInTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/cnnPackageTest/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/cnnPackageTest/VerifyPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook1/src/test/resources/FacebookRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/resources/CnnRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/amazonPackage/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/amazonPackage/Autosuggestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/cnnPackage/VerifyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="29" column="214" selection-start-line="29" selection-start-column="214" selection-end-line="29" selection-end-column="214" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1496">
+          <caret line="277" column="22" selection-start-line="277" selection-start-column="22" selection-end-line="277" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPost/src/main/java/mobilePackage/MobileClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPost/src/test/java/mobilePackageTest/MobileClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPost/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPost/src/test/resources/NYPostRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank/src/test/java/CitiHomeTest/CitiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook1/src/main/java/facebookPackage/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/cnnPackage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank/src/main/java/CitiHome/Citi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank/src/test/resources/CitibankRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank/src/test/java/CitiHomeTest/CitiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank/src/test/java/CitiHomeTest/BeforeMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>

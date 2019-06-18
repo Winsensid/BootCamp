@@ -45,6 +45,10 @@
             <artifactId>extentreports</artifactId>
             <version>4.0.9</version>
         </dependency>
+        <dependency>
+            <groupId>io.appium</groupId>
+            <artifactId>java-client</artifactId>
+        </dependency>
 
     </dependencies>
 

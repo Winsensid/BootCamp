@@ -11,12 +11,34 @@
     <modules>
         <module>Generic</module>
         <module>Amazon</module>
-        <module>Facebook</module>
+        <module>Facebook1</module>
         <module>Cnn</module>
         <module>Cigna</module>
         <module>Citibank</module>
         <module>Generic2</module>
+        <module>Facebook1</module>
+        <module>CNN</module>
+        <module>NYPost</module>
+        <module>Cigna</module>
+        <module>Citibank1</module>
+        <module>Citibank</module>
+        <module>Citibank</module>
+        <module>Citibank</module>
     </modules>
+    <dependencies>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-support</artifactId>
+            <version>3.141.59</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.BootCampAutomation</groupId>
+            <artifactId>Generic</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
     <dependencyManagement>
         <dependencies>
@@ -73,7 +95,7 @@
 
         </dependencies>
     </dependencyManagement>
-    <!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
+
 
 
 </project>

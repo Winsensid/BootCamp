@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Android test suite for Target">
+
+    <parameter name="OS" value="Android"/>
+    <parameter name="deviceName" value="emulator-5554"/>
+    <parameter name="version" value="9"/>
+
+    <test name="NYPost page" preserve-order="true">
+        <classes>
+            <class name="mobilePackageTest.MobileClassTest"/>
+        </classes>
+    </test>
+</suite>
